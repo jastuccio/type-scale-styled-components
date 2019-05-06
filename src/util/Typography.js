@@ -1,11 +1,4 @@
-// @import url('https://fonts.googleapis.com/css?family=Charmonman|Roboto');
-
 export const font = {
-  // Font Styles
-  title: `font-family: 'Charmonman', cursive`,
-  body: `font-family: 'Roboto', sans-serif`,
-
-  // Font Sizes
   smallest: 'font-size: 12px',
   small: 'font-size:14px',
   base: 'font-size: 16px',
